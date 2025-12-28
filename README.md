@@ -1,16 +1,37 @@
-## Hi there 👋
+# Alvi Rownok
 
-<!--
-**AlviRownok/AlviRownok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software & AI Specialist focused on building practical, production oriented machine learning and LLM based systems.
 
-Here are some ideas to get you started:
+I work across applied ML, data driven products, and intelligent automation, with strong attention to structure, reproducibility, and real world constraints.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core focus
+- Applied Machine Learning and Predictive Modeling
+- LLM applications, RAG pipelines, and AI assistants
+- Data engineering and analytics workflows
+- Experimental research translated into usable systems
+
+## Selected projects
+- **SAbot**  
+  LLM powered RAG assistant with structured retrieval and evaluation  
+  https://github.com/AlviRownok/SAbot-an-LLM-RAG-Assistant
+
+- **Github-PM**  
+  Project management and analytics dashboard built on GitHub data  
+  https://github.com/AlviRownok/Github-PM
+
+- **BGPredictor**  
+  Blood glucose prediction using stacked ensemble models  
+  https://github.com/AlviRownok/BGPredictor
+
+- **NAPOLI-GIS**  
+  Interactive GIS and geospatial visualization project  
+  https://github.com/AlviRownok/NAPOLI-GIS
+
+## Tech stack
+Python, Jupyter, Streamlit, classical ML, LLM tooling, data pipelines, and cloud based experimentation.
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/alvi-rownok
+- Instagram: https://www.instagram.com/aonindo
+
+If you are interested in collaboration, research, or applied AI work, feel free to reach out.
