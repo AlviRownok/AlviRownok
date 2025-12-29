@@ -16,62 +16,55 @@ I work across applied ML, data driven products, and intelligent automation, with
 
 ## Highlights
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap:14px; justify-content:center;">
+<div align="center">
+  <div style="display:flex; gap:12px; overflow-x:auto; padding:10px; white-space:nowrap; -webkit-overflow-scrolling:touch;">
 
-  <a href="https://github.com/AlviRownok/SAbot-an-LLM-RAG-Assistant" style="text-decoration:none;">
-    <div style="width:320px; border:1px solid #30363d; border-radius:14px; overflow:hidden;">
-      <img src="assets/sabot-preview.png" alt="SAbot preview" width="100%"/>
-      <div style="padding:12px 12px 14px 12px;">
-        <div style="display:flex; align-items:center; gap:8px; justify-content:space-between;">
-          <b style="font-size:16px;">SAbot</b>
-          <img src="assets/unina-logo.png" alt="UNINA" height="20"/>
-        </div>
-        <div style="margin-top:6px; color:#8b949e; font-size:13px;">
-          LLM RAG assistant with structured retrieval and evaluation.
-        </div>
-        <div style="margin-top:10px; font-size:12px;">
-          <code>LLM</code> <code>RAG</code> <code>Assistants</code>
+    <a href="https://github.com/AlviRownok/SAbot-an-LLM-RAG-Assistant" style="text-decoration:none;">
+      <div style="display:inline-block; width:220px; border:1px solid #30363d; border-radius:14px; overflow:hidden;">
+        <img src="assets/sabot-preview.png" alt="SAbot preview" width="220" height="120" style="object-fit:cover;" />
+        <div style="padding:10px; text-align:left;">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <b>SAbot</b>
+            <img src="assets/unina-logo.png" alt="UNINA" height="18"/>
+          </div>
+          <div style="color:#8b949e; font-size:12px; margin-top:6px;">
+            LLM RAG assistant with structured retrieval
+          </div>
         </div>
       </div>
-    </div>
-  </a>
+    </a>
 
-  <a href="https://github.com/AlviRownok/BGPredictor" style="text-decoration:none;">
-    <div style="width:320px; border:1px solid #30363d; border-radius:14px; overflow:hidden;">
-      <img src="assets/bgpredictor-preview.png" alt="BGPredictor preview" width="100%"/>
-      <div style="padding:12px 12px 14px 12px;">
-        <div style="display:flex; align-items:center; gap:8px; justify-content:space-between;">
-          <b style="font-size:16px;">BGPredictor</b>
-          <img src="assets/kaggle-logo.png" alt="Kaggle" height="20"/>
-        </div>
-        <div style="margin-top:6px; color:#8b949e; font-size:13px;">
-          Blood glucose prediction using stacked ensemble models.
-        </div>
-        <div style="margin-top:10px; font-size:12px;">
-          <code>ML</code> <code>Ensembles</code> <code>Forecasting</code>
+    <a href="https://github.com/AlviRownok/BGPredictor" style="text-decoration:none;">
+      <div style="display:inline-block; width:220px; border:1px solid #30363d; border-radius:14px; overflow:hidden;">
+        <img src="assets/bgpredictor-preview.png" alt="BGPredictor preview" width="220" height="120" style="object-fit:cover;" />
+        <div style="padding:10px; text-align:left;">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <b>BGPredictor</b>
+            <img src="assets/kaggle-logo.png" alt="Kaggle" height="18"/>
+          </div>
+          <div style="color:#8b949e; font-size:12px; margin-top:6px;">
+            Kaggle ensemble based glucose prediction
+          </div>
         </div>
       </div>
-    </div>
-  </a>
+    </a>
 
-  <a href="https://github.com/AlviRownok/Grassberger_Procaccia" style="text-decoration:none;">
-    <div style="width:320px; border:1px solid #30363d; border-radius:14px; overflow:hidden;">
-      <img src="assets/grassberger-preview.png" alt="Grassberger Procaccia preview" width="100%"/>
-      <div style="padding:12px 12px 14px 12px;">
-        <div style="display:flex; align-items:center; gap:8px; justify-content:space-between;">
-          <b style="font-size:16px;">Grassberger–Procaccia</b>
-          <img src="assets/unina-logo.png" alt="UNINA" height="20"/>
-        </div>
-        <div style="margin-top:6px; color:#8b949e; font-size:13px;">
-          Correlation dimension estimation for nonlinear dynamical systems.
-        </div>
-        <div style="margin-top:10px; font-size:12px;">
-          <code>Time Series</code> <code>Chaos</code> <code>Math</code>
+    <a href="https://github.com/AlviRownok/Grassberger_Procaccia" style="text-decoration:none;">
+      <div style="display:inline-block; width:220px; border:1px solid #30363d; border-radius:14px; overflow:hidden;">
+        <img src="assets/grassberger-preview.png" alt="Grassberger Procaccia preview" width="220" height="120" style="object-fit:cover;" />
+        <div style="padding:10px; text-align:left;">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <b>Grassberger</b>
+            <img src="assets/unina-logo.png" alt="UNINA" height="18"/>
+          </div>
+          <div style="color:#8b949e; font-size:12px; margin-top:6px;">
+            Correlation dimension in nonlinear systems
+          </div>
         </div>
       </div>
-    </div>
-  </a>
+    </a>
 
+  </div>
 </div>
 
 ---
@@ -84,3 +77,5 @@ Python, Jupyter, Streamlit, classical machine learning, LLM tooling, data pipeli
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/alvi-rownok
 - Instagram: https://www.instagram.com/aonindo
+
+If you are interested in collaboration, research, or applied AI work, feel free to reach out.
