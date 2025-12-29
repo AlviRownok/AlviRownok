@@ -1,8 +1,8 @@
-# Alvi Rownok
+## About this profile
 
-Software & AI Specialist focused on building practical, production oriented machine learning and LLM based systems.
+This repository serves as a curated portfolio of my work across applied machine learning, LLM based systems, and data driven experimentation.
 
-I work across applied ML, data driven products, and intelligent automation, with strong attention to structure, reproducibility, and real world constraints.
+The projects highlighted below represent a mix of academic research, competitive modeling, and enterprise system development, with a strong focus on reproducibility, system design, and real world constraints.
 
 ---
 
