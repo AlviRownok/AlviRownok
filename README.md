@@ -27,6 +27,9 @@ The projects highlighted below represent a mix of academic research, competitive
 <a href="https://github.com/AlviRownok/Grassberger_Procaccia">
   <img src="assets/grassberger-preview.png" width="210" alt="Grassberger Procaccia preview" />
 </a>
+<a href="https://github.com/MicheleDelliVeneri/ALMASim">
+  <img src="assets/ALMASimBanner.jpeg" width="210" alt="ALMASim preview" />
+</a>
 
 <br/>
 
@@ -37,6 +40,9 @@ The projects highlighted below represent a mix of academic research, competitive
 <img src="assets/kaggle-logo.png" height="16" alt="Kaggle" />
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://github.com/AlviRownok/Grassberger_Procaccia"><b>Grassberger–Procaccia</b></a>
+<img src="assets/unina-logo.png" height="16" alt="UNINA" />
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/MicheleDelliVeneri/ALMASim"><b>ALMASim</b></a>
 <img src="assets/unina-logo.png" height="16" alt="UNINA" />
 
 </div>
