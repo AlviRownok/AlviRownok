@@ -54,6 +54,25 @@ Blood glucose prediction system developed for a Kaggle challenge using stacked e
 
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+### Grassberger–Procaccia
+
+Implementation and experimentation of the Grassberger–Procaccia algorithm for estimating correlation dimension in dynamical systems.
+
+**Context:** Nonlinear dynamics and chaos theory  
+**Focus:** Time series analysis, dynamical systems, mathematical modeling  
+🔗 https://github.com/AlviRownok/Grassberger_Procaccia
+
+</td>
+<td width="50%">
+
+<img src="assets/grassberger-preview.png" alt="Grassberger Procaccia preview" />
+
+</td>
+</tr>
 </table>
 
 ---
