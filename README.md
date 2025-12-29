@@ -72,10 +72,14 @@ These projects reached functional completion but were not released to production
 
 </div>
 
+**Notes:**
+- The **ArcGIS Map App** is currently **non functional**, as the backend database previously hosted on **AWS** has been removed.
+- System design, data modeling, and application logic were fully completed during development.
+
 **Work scope included:**
-- End to end system design and data pipelines
-- Analytical and geospatial modeling
-- Dashboard and visualization layers
+- End to end system design and data pipelines  
+- Analytical and geospatial modeling  
+- Dashboard and visualization layers  
 - Prototyping for enterprise and public sector use cases
 
 ---
