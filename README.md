@@ -17,54 +17,34 @@ I work across applied ML, data driven products, and intelligent automation, with
 ## Highlights
 
 <div align="center">
-  <div style="display:flex; gap:12px; overflow-x:auto; padding:10px; white-space:nowrap; -webkit-overflow-scrolling:touch;">
 
-    <a href="https://github.com/AlviRownok/SAbot-an-LLM-RAG-Assistant" style="text-decoration:none;">
-      <div style="display:inline-block; width:220px; border:1px solid #30363d; border-radius:14px; overflow:hidden;">
-        <img src="assets/sabot-preview.png" alt="SAbot preview" width="220" height="120" style="object-fit:cover;" />
-        <div style="padding:10px; text-align:left;">
-          <div style="display:flex; justify-content:space-between; align-items:center;">
-            <b>SAbot</b>
-            <img src="assets/unina-logo.png" alt="UNINA" height="18"/>
-          </div>
-          <div style="color:#8b949e; font-size:12px; margin-top:6px;">
-            LLM RAG assistant with structured retrieval
-          </div>
-        </div>
-      </div>
-    </a>
+<a href="https://github.com/AlviRownok/SAbot-an-LLM-RAG-Assistant">
+  <img src="assets/sabot-preview.png" width="210" alt="SAbot preview" />
+</a>
+<a href="https://github.com/AlviRownok/BGPredictor">
+  <img src="assets/bgpredictor-preview.png" width="210" alt="BGPredictor preview" />
+</a>
+<a href="https://github.com/AlviRownok/Grassberger_Procaccia">
+  <img src="assets/grassberger-preview.png" width="210" alt="Grassberger–Procaccia preview" />
+</a>
 
-    <a href="https://github.com/AlviRownok/BGPredictor" style="text-decoration:none;">
-      <div style="display:inline-block; width:220px; border:1px solid #30363d; border-radius:14px; overflow:hidden;">
-        <img src="assets/bgpredictor-preview.png" alt="BGPredictor preview" width="220" height="120" style="object-fit:cover;" />
-        <div style="padding:10px; text-align:left;">
-          <div style="display:flex; justify-content:space-between; align-items:center;">
-            <b>BGPredictor</b>
-            <img src="assets/kaggle-logo.png" alt="Kaggle" height="18"/>
-          </div>
-          <div style="color:#8b949e; font-size:12px; margin-top:6px;">
-            Kaggle ensemble based glucose prediction
-          </div>
-        </div>
-      </div>
-    </a>
+<br/>
 
-    <a href="https://github.com/AlviRownok/Grassberger_Procaccia" style="text-decoration:none;">
-      <div style="display:inline-block; width:220px; border:1px solid #30363d; border-radius:14px; overflow:hidden;">
-        <img src="assets/grassberger-preview.png" alt="Grassberger Procaccia preview" width="220" height="120" style="object-fit:cover;" />
-        <div style="padding:10px; text-align:left;">
-          <div style="display:flex; justify-content:space-between; align-items:center;">
-            <b>Grassberger</b>
-            <img src="assets/unina-logo.png" alt="UNINA" height="18"/>
-          </div>
-          <div style="color:#8b949e; font-size:12px; margin-top:6px;">
-            Correlation dimension in nonlinear systems
-          </div>
-        </div>
-      </div>
-    </a>
+<a href="https://github.com/AlviRownok/SAbot-an-LLM-RAG-Assistant"><b>SAbot</b></a>
+<img src="assets/unina-logo.png" height="16" alt="UNINA" />
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/AlviRownok/BGPredictor"><b>BGPredictor</b></a>
+<img src="assets/kaggle-logo.png" height="16" alt="Kaggle" />
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/AlviRownok/Grassberger_Procaccia"><b>Grassberger–Procaccia</b></a>
+<img src="assets/unina-logo.png" height="16" alt="UNINA" />
 
-  </div>
+<br/>
+
+<sub>
+Academic work with <b>UNINA</b> and competition work with <b>Kaggle</b>. Click any preview to open the repo.
+</sub>
+
 </div>
 
 ---
