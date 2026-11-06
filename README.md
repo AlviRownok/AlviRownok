@@ -1,102 +1,107 @@
-## About this profile
+# ⚡ Alvi Rownok
+<!-- markdownlint-disable MD013 -->
 
-This repository serves as a curated portfolio of my work across applied machine learning, LLM based systems, and data driven experimentation.
+## AI and Software Expert • Software Developer (Level C1)
 
-The projects highlighted below represent a mix of academic research, competitive modeling, and enterprise system development, with a strong focus on reproducibility, system design, and real world constraints.
+**[GAM Engineering S.r.l.](https://gamengineering.it)** • *Aversa, CE, Italy*
 
----
+| ![Alvi Rownok ASCII portrait](assets/avi-ascii.svg) | ![Alvi Rownok Neofetch Card](assets/info-card.svg) |
+| :---: | :---: |
 
-## Core focus
-- Applied Machine Learning and Predictive Modeling
-- LLM applications, RAG pipelines, and AI assistants
-- Data engineering and analytics workflows
-- Experimental research translated into usable systems
+[![GitHub followers](https://img.shields.io/github/followers/AlviRownok?label=Follow&style=for-the-badge&logo=github&color=22c55e&logoColor=white)](https://github.com/AlviRownok)
+[![Profile Views](https://komarev.com/ghpvc/?username=AlviRownok&style=for-the-badge&color=38bdf8)](https://github.com/AlviRownok)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Code Excellence](https://img.shields.io/badge/Code_Excellence-100%25-f59e0b?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/AlviRownok)
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux Systems](https://img.shields.io/badge/Linux_Systems-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## Highlights
-
-<div align="center">
-
-<a href="https://github.com/AlviRownok/SAbot-an-LLM-RAG-Assistant">
-  <img src="assets/sabot-preview.png" width="210" alt="SAbot preview" />
-</a>
-<a href="https://github.com/AlviRownok/BGPredictor">
-  <img src="assets/bgpredictor-preview.png" width="210" alt="BGPredictor preview" />
-</a>
-<a href="https://github.com/AlviRownok/Grassberger_Procaccia">
-  <img src="assets/grassberger-preview.png" width="210" alt="Grassberger Procaccia preview" />
-</a>
-<a href="https://github.com/MicheleDelliVeneri/ALMASim">
-  <img src="assets/ALMASimBanner.jpeg" width="210" alt="ALMASim preview" />
-</a>
-
-<br/>
-
-<a href="https://github.com/AlviRownok/SAbot-an-LLM-RAG-Assistant"><b>SAbot</b></a>
-<img src="assets/unina-logo.png" height="16" alt="UNINA" />
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/AlviRownok/BGPredictor"><b>BGPredictor</b></a>
-<img src="assets/kaggle-logo.png" height="16" alt="Kaggle" />
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/AlviRownok/Grassberger_Procaccia"><b>Grassberger–Procaccia</b></a>
-<img src="assets/unina-logo.png" height="16" alt="UNINA" />
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/MicheleDelliVeneri/ALMASim"><b>ALMASim</b></a>
-<img src="assets/unina-logo.png" height="16" alt="UNINA" />
-
-</div>
+> "Just a developer and AI engineer for fun... 1 commit, 0 production bottlenecks."
 
 ---
 
-## Projects completed at Spici srl
+## 👨‍💻 Executive Profile & Engineering Philosophy
 
-<img src="assets/spici.png" height="42" alt="Spici srl" />
+I am an **AI and Software Expert** and certified **Software Developer (Level C1)** at **GAM Engineering S.r.l.**, designing mission-critical systems across **Artificial Intelligence / Computer Vision**, **Enterprise Systems Architecture**, and **Telecommunications Telemetry**.
 
-The following systems were fully designed and implemented during my role as **Data Scientist at Spici srl**.  
-These projects reached functional completion but were not released to production due to business or organizational constraints.
-
-<div align="center">
-
-<a href="https://github.com/AlviRownok/OneDrive-Depth-Analytics">
-  <img src="assets/OneDrive-Logo.wine.png" height="56" alt="OneDrive" />
-</a>
-<a href="https://github.com/AlviRownok/NAPOLI-GIS">
-  <img src="assets/Qgis-icon-3.0.png" height="56" alt="QGIS" />
-</a>
-<a href="https://github.com/AlviRownok/arcgis-map-app">
-  <img src="assets/ArcGIS_globe.png" height="56" alt="ArcGIS" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/AlviRownok/OneDrive-Depth-Analytics"><b>OneDrive Depth Analytics</b></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/AlviRownok/NAPOLI-GIS"><b>NAPOLI GIS</b></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/AlviRownok/arcgis-map-app"><b>ArcGIS Map App</b></a>
-
-</div>
-
-**Notes:**
-- The **ArcGIS Map App** is currently **non functional**, as the backend database previously hosted on **AWS** has been removed.
-- System design, data modeling, and application logic were fully completed during development.
-
-**Work scope included:**
-- End to end system design and data pipelines  
-- Analytical and geospatial modeling  
-- Dashboard and visualization layers  
-- Prototyping for enterprise and public sector use cases
+My engineering practice follows strict international quality standards (**ISO 9001:2015**, **ISO/IEC 27001**) and European regulatory governance (**GDPR EU 2016/679**, **NIS2 Directive EU 2022/2555**, **EU AI Act Regulation EU 2024/1689**), ensuring that software solutions deliver verified reliability, tamper-resistant data privacy, and mathematical robustness.
 
 ---
 
-## Tech stack
-Python, Jupyter, Streamlit, classical machine learning, LLM tooling, data pipelines, geospatial frameworks, and cloud based experimentation.
+## 🚀 Key Products & Projects Portfolio
+
+### 1. 🛡️ Ghostymizer — Video Privacy & Anonymization Engine
+
+* **Brief Identity:** An active engineering project focused on Computer Vision and Edge AI models for automated, real-time facial and license-plate privacy anonymization across video surveillance streams.
+* **Objective:** Developing resilient visual redaction under dynamic camera conditions while aligning with European data protection frameworks (GDPR Art. 9/25 & EU AI Act).
+
+### 2. ⚡ GAMAdPro — Enterprise Device Licensing & Security SaaS
+
+* **Brief Identity:** An enterprise-grade B2B platform designed for centralized device lifecycle licensing, digital advertising operations, and intelligent endpoint telemetry management.
+* **Core Value:** Combines interactive 3D WebGL operational dashboards with robust access control, automated privilege succession, and continuous subscription validation.
+
+### 3. 🌐 FASTWEB-Logistics
+
+* **Brief Identity:** An ongoing enterprise logistics and supply-chain management solution covering telecommunications, internet network infrastructure, and data center supply chains.
+* **Core Value:** Optimizing network location discovery, inventory movement, resource routing, and automated supply-chain verification across distributed infrastructure.
+
+### 4. 📡 Network-to-Telegram — WISP Telemetry & Signaling Tool
+
+* **Brief Identity:** A specialized telecommunications signaling and monitoring utility connecting WISP (Wireless Internet Service Provider) network infrastructure to Telegram for real-time operational alerts, link health metrics, and instant uptime dispatching.
+
+### 5. 📋 GAM-PM — Smart Project Management
+
+* **Brief Identity:** A personal design and architecture initiative focused on intelligent, automated project management, streamlined developer workflows, and background synchronization services.
+
+### 6. 🔍 Digital Forensics & Incident Response
+
+* **Brief Identity:** Automated forensic log analysis and evidence synthesis pipelines built to support incident handling and compliance verification, strictly adhering to ISO/IEC 27001 and NIS2 Article 23 CSIRT reporting protocols.
 
 ---
 
-## Connect
-- LinkedIn: https://www.linkedin.com/in/alvi-rownok
-- Instagram: https://www.instagram.com/aonindo
+## 🛠️ Technical Competencies
 
-If you are interested in collaboration, research, or applied AI work, feel free to reach out.
+| Domain | Core Competencies |
+| :--- | :--- |
+| **Artificial Intelligence & Vision** | Deep Learning • Computer Vision • Edge AI • Real-Time Object Tracking • Video Anonymization |
+| **Programming Languages** | Python • C/C++ • TypeScript • JavaScript • SQL • Ruby • Bash • PowerShell |
+| **Backend & Distributed Systems** | REST APIs • Asynchronous Queue Systems • High-Availability Pipelines • PostgreSQL • Microservices |
+| **Frontend & Visualization** | Modern Web Applications • 3D WebGL Dashboards • Interactive Telemetry UIs |
+| **DevOps & Cloud Systems** | Docker Containers • Linux System Administration • Zero-Trust Edge Ingress • Secure Reverse Proxies |
+| **Governance & Compliance** | GDPR (EU 2016/679) • NIS2 Directive • EU AI Act (2024) • ISO 9001:2015 • ISO/IEC 27001 |
+
+---
+
+## 📊 Diagnostics & Activity
+
+| ![Alvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlviRownok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlviRownok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8) |
+| :---: | :---: |
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlviRownok&theme=tokyonight&hide_border=true)
+
+---
+
+## 📜 Standards & Compliance Highlights
+
+Every enterprise system and AI model I architect is developed in strict adherence to:
+
+* 🇪🇺 **EU AI Act — Regulation (EU) 2024/1689:** Prohibited AI guardrails (Art. 5), comprehensive documentation (Art. 11), automatic activity logging (Art. 12/19), and human oversight controls (Art. 14).
+* 🔒 **GDPR — Regulation (EU) 2016/679:** Data protection by design and default (Art. 25), sensitive data isolation (Art. 9), data minimization (Art. 5), and breach response readiness (Art. 33).
+* 🛡️ **NIS2 Directive — Directive (EU) 2022/2555:** Risk analysis, zero-trust hygiene, and CSIRT incident reporting protocols.
+* 📋 **ISO Benchmarks:** ISO 9001:2015 (Quality Management) • ISO/IEC 27001 (Information Security Management).
+
+---
+
+## 📬 Connect & Collaborate
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlviRownok-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlviRownok)
+[![Organization](https://img.shields.io/badge/Organization-GAM_Engineering_S.r.l.-0284c7?style=for-the-badge&logo=shield&logoColor=white)](https://gamengineering.it)
+[![Email](https://img.shields.io/badge/Email-alvi2241998%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvi2241998@gmail.com)
+
+Crafted with precision, Linux terminal excellence, and full privacy compliance by Alvi Rownok • Aversa, CE, Italy
