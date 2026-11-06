@@ -3,14 +3,14 @@
 
 ## AI and Software Expert • Software Developer (Level C1)
 
-**[GAM Engineering S.r.l.](https://gamengineering.it)** • *Aversa, CE, Italy*
+**[GAM Engineering S.r.l.](https://gameng.it)** • *Aversa, CE, Italy*
 
 | ![Alvi Rownok ASCII portrait](assets/avi-ascii.svg) | ![Alvi Rownok Neofetch Card](assets/info-card.svg) |
 | :---: | :---: |
 
 [![GitHub followers](https://img.shields.io/github/followers/AlviRownok?label=Follow&style=for-the-badge&logo=github&color=22c55e&logoColor=white)](https://github.com/AlviRownok)
 [![Profile Views](https://komarev.com/ghpvc/?username=AlviRownok&style=for-the-badge&color=38bdf8)](https://github.com/AlviRownok)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvi-rownok/)
 [![Code Excellence](https://img.shields.io/badge/Code_Excellence-100%25-f59e0b?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/AlviRownok)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -28,7 +28,7 @@
 
 ## 👨‍💻 Executive Profile & Engineering Philosophy
 
-I am an **AI and Software Expert** and certified **Software Developer (Level C1)** at **GAM Engineering S.r.l.**, designing mission-critical systems across **Artificial Intelligence / Computer Vision**, **Enterprise Systems Architecture**, and **Telecommunications Telemetry**.
+I am an **AI and Software Expert** and certified **Software Developer (Level C1)** at **GAM Engineering S.r.l.**, developing mission-critical solutions across **Software Development & AI**, **Computer Vision**, **Cybersecurity**, and **WISP Network Infrastructure & Telemetry**.
 
 My engineering practice follows strict international quality standards (**ISO 9001:2015**, **ISO/IEC 27001**) and European regulatory governance (**GDPR EU 2016/679**, **NIS2 Directive EU 2022/2555**, **EU AI Act Regulation EU 2024/1689**), ensuring that software solutions deliver verified reliability, tamper-resistant data privacy, and mathematical robustness.
 
@@ -80,10 +80,10 @@ My engineering practice follows strict international quality standards (**ISO 90
 
 ## 📊 Diagnostics & Activity
 
-| ![Alvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlviRownok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlviRownok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8) |
+| ![Alvi's GitHub Stats](assets/github-stats.svg) | ![Top Languages](assets/top-langs.svg) |
 | :---: | :---: |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlviRownok&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AlviRownok&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -101,7 +101,8 @@ Every enterprise system and AI model I architect is developed in strict adherenc
 ## 📬 Connect & Collaborate
 
 [![GitHub](https://img.shields.io/badge/GitHub-AlviRownok-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlviRownok)
-[![Organization](https://img.shields.io/badge/Organization-GAM_Engineering_S.r.l.-0284c7?style=for-the-badge&logo=shield&logoColor=white)](https://gamengineering.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvi_Rownok-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvi-rownok/)
+[![Organization](https://img.shields.io/badge/Organization-GAM_Engineering_S.r.l.-0284c7?style=for-the-badge&logo=shield&logoColor=white)](https://gameng.it)
 [![Email](https://img.shields.io/badge/Email-alvi2241998%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvi2241998@gmail.com)
 
 Crafted with precision, Linux terminal excellence, and full privacy compliance by Alvi Rownok • Aversa, CE, Italy
